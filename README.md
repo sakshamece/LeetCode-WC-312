@@ -1,5 +1,6 @@
 # LeetCode-WC-312
-Leetcode conducts weekly contest which consists of 4 question ranges from easy to Hard in terms of difficulty. Contest Link : https://leetcode.com/contest/weekly-contest-312/
+Leetcode conducts weekly contest which consists of 4 question ranges from easy to Hard in terms of difficulty. 
+Contest Link : https://leetcode.com/contest/weekly-contest-312/
 
 Q1: https://leetcode.com/contest/weekly-contest-312/problems/sort-the-people/
 
